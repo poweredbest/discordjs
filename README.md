@@ -5,7 +5,7 @@
   </p>
   <br />
   <p>
-    Discord JS Custom
+    This repository serves modified discord.js code to the Theseus selfbot. <b>No pull requests will be accepted and issues created here will be ignored.</b>
   </p>
 </div>
 
